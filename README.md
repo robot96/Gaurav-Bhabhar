@@ -1,5 +1,5 @@
-# Gaurav-Bhabhar
-
+ # Gaurav-Bhabhar
+![logo](https://github.com/robot96/Gaurav-Bhabhar/blob/main/Blue%20Modern%20Business%20Promo%20LinkedIn%20Banner.png)
 <h1 align="center">Hi there 👋, Welcome to My Profile</h1>
 <h3 align="center">A Passionate Software Engineer | Data Analyst From India</h3>
 
